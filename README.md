@@ -48,7 +48,8 @@
 <h2>Project Files</h2>
 <ul>
     <li><strong>ecommerce_dashboard.pbix</strong>: The Power BI dashboard file.</li>
-    <li><strong>ecommerce_data.xlsx</strong>: The raw data source used for analysis.</li>
+    <li><strong>details.xlsx</strong>: The raw data source used for analysis.</li>
+    <li><strong>orders.xlsx</strong>: The raw data source used for analysis.</li>
 </ul>
 
 <h2>Key Insights</h2>
