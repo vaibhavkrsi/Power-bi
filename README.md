@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Power BI E-Commerce Dashboard</title>
-</head>
-<body>
+
 
 <h1>Power BI E-Commerce Dashboard</h1>
 
@@ -72,5 +65,3 @@
     <li>Add more drill-down features for in-depth analysis.</li>
 </ul>
 
-</body>
-</html>
